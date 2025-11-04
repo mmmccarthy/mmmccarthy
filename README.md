@@ -1,4 +1,10 @@
-## Hi there 👋
+## Michael M. McCarthy, AICP
+
+I work as a travel demand modeler and planner at [RSG](https://rsginc.com). I have developed trip-based travel models in TransCAD and PTV Visum for MPOs and State DOTs and used these models to help our clients update their Regional Transportation Plans. I have also worked on model components for activity-based models using CT-RAMP and DaySim and the PopulationSim population synthesizer. 
+
+[Connect on LinkedIn](https://www.linkedin.com/in/michaelmccarthychi/)
+
+In my free time I've developed a [traffic crash dashboard](https://github.com/mmmccarthy/chivz) for Chicago using open data in R Shiny, a conference registration website for [Northwestern University Model UN](https://numun.org/), and a WordPress CMS for student journalists participating in [Chicago International Model UN](https://www.cimun.org/). I post infrequently about urban planning and transportation in Chicago on my [personal website](http://michaelmcc.com/).
 
 <!--
 **mmmccarthy/mmmccarthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
